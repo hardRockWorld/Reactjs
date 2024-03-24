@@ -1,8 +1,11 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## First React App
 
-Currently, two official plugins are available:
+This is the first time we create a read app using the following command which includes React+Vite.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Create your new project using the following command:
+  "npm create vite@latest"
+  -- This will ask you some questions related to naming your project, which UI framework do you want to install, which language like (typescript or js or vanilla js) you want, etc
+
+- For React project you must choose react UI framework and your choice if you need JS or TS
