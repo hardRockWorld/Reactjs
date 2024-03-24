@@ -1,8 +1,17 @@
-# React + Vite
+# Add Bootstrap to your project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+You can add bootstrap to your react project using the following:
 
-Currently, two official plugins are available:
+- go to get bootstrap and copy the install instructions, something like this:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  "npm i bootstrap@5.3.3"
+
+- after install is done you can check in package.json file to confirm that
+
+- Now, just import the bootstrap css code in your main.jsx
+
+  import "bootstrap/dist/css/bootstrap.min.css"
+
+- This will make sure the bootstrap is working perfectly in your project. Check it by running the dev server with this:
+
+  "npm run dev"
