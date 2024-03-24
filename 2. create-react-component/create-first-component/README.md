@@ -1,8 +1,30 @@
-# React + Vite
+# Create React Components
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Here, we try to create the react components.
 
-Currently, two official plugins are available:
+There are 2 kinds of react components:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Class components
+- Functional components
+
+* (in this tutorial, we are going to use functional components, because its mostly used and is simple)
+
+## Importing/Exporting react components
+
+We need to export any react component before we could use them in our app.
+
+- Exporting component:
+  "export default component_name"
+  or
+  "export component_name"
+  (if you want to export non-default component, then while importing the component, you need to derive it like this within {component_name})
+
+  ex: for non-default components
+
+  import {MyComponent} from './components/MyComponent'
+
+  and
+
+  for default component:
+
+  import MyComponent from './components/MyComponent'
