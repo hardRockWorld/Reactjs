@@ -6,6 +6,8 @@
 
 #### 17. Learn Bootstrap
 
+#### 18. React Fragments
+
 #### Projects
 
     1. Todo App
