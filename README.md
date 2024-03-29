@@ -12,6 +12,8 @@
 
 #### 20. Conditional Rendering
 
+#### 21. Passing data using PropsPassing data using Props
+
 #### Projects
 
     1. Todo App
