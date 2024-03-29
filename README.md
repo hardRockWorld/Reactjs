@@ -14,6 +14,8 @@
 
 #### 21. Passing data using PropsPassing data using Props
 
+#### 22. CSS Modules
+
 #### Projects
 
     1. Todo App
