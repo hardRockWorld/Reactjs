@@ -16,9 +16,11 @@
 
 #### 22. CSS Modules
 
+#### 23. Passing Children using props
+
 #### Projects
 
     1. Todo App
     2. Bharat Clock
     3. Todo App version 2
-    4. Calculator App version 1
+    4. Calculator App version
