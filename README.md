@@ -18,6 +18,8 @@
 
 #### 23. Passing Children using props
 
+#### 24. Handle Events
+
 #### Projects
 
     1. Todo App
